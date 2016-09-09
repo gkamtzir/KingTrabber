@@ -43,13 +43,13 @@ def getInput(moves,room):
 
 def main():
 
-    rooms = [ "The Old Gate....last time I saw it, it was locked.....now it's open.",
+    rooms = [ "The Old Gate...last time I saw it, it was locked...now it's open.",
               "Well, two guard's rooms",
               "Only bones and skulls have left. I better be careful for goblins...",
               "Ohh there is a goblin(level 1) inside!!!",
               "The first entrance of the Castle.",
               "These weapons are old and dusty. An elixir is on the table",
-              "The big Main Hall. It's not what it used to be...",
+              "The Main Hall. It's not what it used to be...",
               "These people are dead since that night. All of them...or maybe not...a zombie(level 1) just attacked you!!!",
               "The Hall is empty.",
               "The last entrance of the castle.",
@@ -57,7 +57,7 @@ def main():
               "Goblins(level 2) are guarding the safe room!!!",
               "The GOLD KEY for the Sword room is found!!!",
               "Spiders(level 2) guards are attacking you!!!",
-              "I found the Sword!!!This Sword will help me to save my people from these evil creatures!!!Let the battle begin!!!"]             
+              "I found the Sword!!!This Sword will save my people from these evil creatures!!!Let the battle begin!!!"]             
 
     #
     # The following list contains lists :)
@@ -125,7 +125,7 @@ def main():
     print "They managed to enter the sacred room, but when they touched the sword suddenly the ultimate power of ice woke up and a huge and bright lightning killed them all."
     print "After that, we were forced to abandon our land."
     print "It is said that, today it is captured by goblins and other beasts."
-    print "Now it’s time to save my own kingdom and fight against the evil."
+    print "Now itâ€™s time to save my own kingdom and fight against the evil."
     print "I, King Trabber, have to take the Frozen Sword and protect my people!!!\n"
     
     
